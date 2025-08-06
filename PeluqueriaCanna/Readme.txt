@@ -1,0 +1,2 @@
+la aplicacion del proyecto esta hecho con neatbens con jpa + mysql para la base de datos y conección utilice la aplicación xammp control panel
+v3.3.0, en el que dejo el archivo exportado de peluqueria_canina para la conección con el jpa 
